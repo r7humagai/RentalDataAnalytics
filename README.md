@@ -1,2 +1,2 @@
-# RentalDataAnalytics
-SQL Project on Rental Data Information
+# TravelDataAnalytics
+SQL Project on Travel Data Information
